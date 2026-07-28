@@ -1,0 +1,6 @@
+{
+  "Name": "Precedence demontrator",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
